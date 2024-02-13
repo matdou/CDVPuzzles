@@ -62,7 +62,7 @@ The puzzles are captured from the following websites:
 
 To run the script and start capturing puzzles:
 
-`python main.py``
+`python main.py`
 
 The script navigates through specified websites, captures images of puzzles and their solutions, and saves them to the specified directory.
 
