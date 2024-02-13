@@ -48,11 +48,11 @@ The puzzles are captured from the following websites:
 
 1. **Clone the repository:**
 
-`git clone https://github.com/yourusername/puzzle-capture-automation.git`
+`git clone https://github.com/matdou/CDVPuzzles`
 
 2. **Navigate to the project directory:**
 
-`cd puzzle-capture-automation`
+`cd CDVPuzzles`
 
 3. **Install the required dependencies:**
 
