@@ -249,6 +249,7 @@ def main():
         (capture_loopy, (driver, path)),
         (capture_sudoku_killer, (driver, path, main_window_handle)),
         (capture_sudoku_solo, (driver, path, "Moyen")),
+        (capture_sudoku_solo, (driver, path, "Difficile")),
         (capture_sudoku_solo, (driver, path, "Diabolique")),
         (capture_irregular_sudoku, (driver, path, main_window_handle, "Moyen")),
         (capture_unequal_adjacent_puzzles, (driver, path, "unequal", "Extreme")),
