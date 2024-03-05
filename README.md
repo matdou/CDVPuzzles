@@ -12,6 +12,7 @@ The following images are automatically captured from various puzzle websites usi
 - `loopy.png` / `loopy_solution.png`
 - `sudoku_killer.png` / `sudoku_killer_solution.png`
 - `sudoku_moyen.png` / `sudoku_moyen_solution.png`
+- `sudoku_difficile.png`/ `sudoku_difficile_solution.png`
 - `sudoku_diabolique.png` / `sudoku_diabolique_solution.png`
 - `irregulier_moyen.png` / `irregulier_moyen_solution.png`
 - `unequal_extreme.png` / `unequal_extreme_solution.png`
