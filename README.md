@@ -7,7 +7,7 @@ An automation tool for "Le CDV" student newspaper, designed to capture and save 
 
 ## Captured Puzzles
 
-The following images are automatically captured from various puzzle websites using this project:
+The following 16 images are automatically captured from various puzzle websites using this project:
 
 - `loopy.png` / `loopy_solution.png`
 - `sudoku_killer.png` / `sudoku_killer_solution.png`
